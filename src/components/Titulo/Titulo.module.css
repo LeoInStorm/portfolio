@@ -1,0 +1,10 @@
+.container{
+    border-bottom:0.5px solid var(--cor-bordas);
+    margin: 0vw 2vw;
+}
+
+.container h1 {
+    text-align: center;
+    font-size: 5vh;
+    color: var(--branco);
+}

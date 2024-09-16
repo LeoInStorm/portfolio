@@ -1,0 +1,35 @@
+.container {
+    display: inline-block;
+    border-radius: 24px;
+    padding: 0.75rem 1.5rem;
+    font-size: 1.125rem;
+    line-height: 1.125rem;
+    background-color: var(--cor-secundaria);
+    color: var(--branco);
+    border: 3px solid var(--cor-secundaria);
+    cursor: pointer;
+    transition: 0.2s
+}
+
+
+.container:hover {
+    border: 3px solid var(--cor-fonte);
+}
+
+@media (max-width: 1024px) {
+    .container {
+        font-size: 4vw;
+        padding: 3vw 4vw;
+        margin-bottom: 2vw;
+        border-radius: 40px;
+    }
+}
+
+
+@media (max-width: 420px) {
+    .container {
+        font-size: 5vw;
+        padding: 2vw 4vw;
+    }
+}
+

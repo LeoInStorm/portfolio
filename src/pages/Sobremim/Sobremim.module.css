@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+    margin: 1vw 20vw;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+
+.container h1{
+    font-size: 3vh;
+    text-align: justify;
+    font-weight: normal;
+}
+
+.container p{
+    font-size: 2vh;
+    text-align: justify;
+}
+
+.container h2{
+    color: var(--cor-secundaria);
+    font-size: 3vh;
+    text-align: center;
+}
+
+

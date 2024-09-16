@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "destino": "curriculo",
+        "titulo": "Curriculo",
+        "capa": "/images/capa-curriculo.jpg"
+    },
+    
+    {
+        "id": 2,
+        "destino": "projetos",
+        "titulo": "Projetos",
+        "capa": "/images/capa-projetos.jpg"
+    },
+    {
+        "id": 3,
+        "destino": "sobremim",
+        "titulo": "Sobre mim",
+        "capa": "/images/capa-sobremim.jpg"
+    }
+]

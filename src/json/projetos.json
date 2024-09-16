@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "destino": "https://ds-builds.vercel.app",
+        "titulo": "DS-Builds",
+        "texto": "DsBuilds é um projeto com o intuito de você poder favoritar e visualizar as melhores builds de dark souls, dark souls 2 e dark souls 3.",
+        "tecnologia":"Tecnologias usadas: [React] [JSX] [CSS] [Javascript]",
+        "capa": "/images/capa-dsbuilds.png"
+    },
+    {
+        "id": 2,
+        "destino": "https://team-maker-nine.vercel.app",
+        "titulo": "Team-Maker",
+        "texto": "Team-Maker é um projeto feito para você poder criar seu time preferido de futebol, você pode colocar jogadores em todas as posições, definir as funções do jogador e colocar sua imagem favorita.",
+        "tecnologia":"Tecnologias usadas: [React] [JSX] [CSS] [Javascript]",
+        "capa": "/images/capa-teamaker.png"
+    },
+    {
+        "id": 3,
+        "destino": "https://front-pomodoro.vercel.app",
+        "titulo": "Pomodoro",
+        "texto": "Projeto que tem um timer para a utilização da técnica de estudo pomodoro. E também podendo colocar as atividades que você deseja",
+        "tecnologia":"Tecnologias usadas: [HTML] [CSS] [Javascript]",
+        "capa": "/images/capa-pomodoro.png"
+    }
+]
