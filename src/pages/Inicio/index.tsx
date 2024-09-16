@@ -6,7 +6,7 @@ const Inicio = () => {
 
     return (
         <>
-            <Banner imagem="usuario" />
+            <Banner/>
             <section className={styles.container}>
             {atalhos.map((atalho) => {
                     return <Card {...atalho} key={atalho.id} />
