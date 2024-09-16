@@ -9,7 +9,7 @@ import Projetos from "./pages/Projetos"
 const AppRoutes = () => {
 
   return (
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <BrowserRouter>
     <Routes>
       <Route path='/' element={<PaginaBase />}>
       <Route index element={<Inicio/>}/>
