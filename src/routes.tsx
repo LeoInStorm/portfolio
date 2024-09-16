@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Routes } from "react-router-dom"
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import PaginaBase from "./pages/PaginaBase"
 import Inicio from "./pages/Inicio"
 import NaoEncontrada from "./pages/NaoEncontrada"
@@ -9,7 +9,7 @@ import Projetos from "./pages/Projetos"
 const AppRoutes = () => {
 
   return (
-    <BrowserRouter>
+    <Router>
     <Routes>
       <Route path='/' element={<PaginaBase />}>
       <Route index element={<Inicio/>}/>
@@ -21,7 +21,7 @@ const AppRoutes = () => {
       </Route>
       
     </Routes>
-    </BrowserRouter>
+    </Router>
 
   )
 }
