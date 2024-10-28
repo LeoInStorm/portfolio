@@ -22,5 +22,13 @@
         "texto": "Projeto que tem um timer para a utilização da técnica de estudo pomodoro. E também podendo colocar as atividades que você deseja",
         "tecnologia":"Tecnologias usadas: [HTML] [CSS] [Javascript]",
         "capa": "/images/capa-pomodoro.png"
+    },
+    {
+        "id": 4,
+        "destino": "https://landing-ex.vercel.app/",
+        "titulo": "Landing-Page-exemplo",
+        "texto": "Landing_ex é um projeto bem simples apenas com a idea de mostrar uma página inicial para aqueles que buscam algo parecido",
+        "tecnologia":"Tecnologias usadas: [HTML] [CSS] [Bootstrap]",
+        "capa": "/images/capa-landing-ex.png"
     }
 ]
