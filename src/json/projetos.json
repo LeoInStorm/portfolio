@@ -37,6 +37,6 @@
         "titulo": "Aplicativo Mobile: Color Converter",
         "texto": "Color Converter é simples e prático, nele você pode converter uma cor Hexadecimal para RGB, HSL ou HSV, você pode sempre converter as cores em qualquer uma dessas 4 opções disponiveis e o melhor, deixar salvo todas as cores que você ja adicionou! Além disso também é possivel apagar as cores que você não deseja mais manter.",
         "tecnologia": "Tecnologias usadas: [Dart] [Flutter]",
-        "capa": "/images/capa-converter.png"
+        "capa": "/images/capa-pomodoro.png"
     }
 ]
