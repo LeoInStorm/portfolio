@@ -33,10 +33,26 @@
     },
     {
         "id": 5,
+        "destino": "https://previsao-tempo-flame.vercel.app/",
+        "titulo": "Previsão do tempo",
+        "texto": "Com o desafio de realizar chamadas de APIs esse site simples, intuitivo e responsivo tem a intenção de demonstrar a previsão do tempo de qualquer lugar do mundo!",
+        "tecnologia": "Tecnologias usadas: [React] [Axios] [TypeScript]",
+        "capa": "/images/capa-previsao.png"
+    },
+    {
+        "id": 6,
+        "destino": "https://desafio-tecnico-theta.vercel.app/",
+        "titulo": "Desafio Drag&Drop com Local Storage",
+        "texto": "Com o desafio de realizar um Drag&Drop(Arrastar e Soltar) com armazenamento local, desenvolvi esse site onde passei por diversos desafios, o intuito é ser parecido com o trello.",
+        "tecnologia": "Tecnologias usadas: [React] [Zustand] [TypeScript]",
+        "capa": "/images/capa-converter.png"
+    },
+    {
+        "id": 7,
         "destino": "https://github.com/LeoInStorm/color_converter/blob/main/README.md",
         "titulo": "Aplicativo Mobile: Color Converter",
         "texto": "Color Converter é simples e prático, nele você pode converter uma cor Hexadecimal para RGB, HSL ou HSV, você pode sempre converter as cores em qualquer uma dessas 4 opções disponiveis e o melhor, deixar salvo todas as cores que você ja adicionou! Além disso também é possivel apagar as cores que você não deseja mais manter.",
         "tecnologia": "Tecnologias usadas: [Dart] [Flutter]",
-        "capa": "/images/capa-converter.png"
+        "capa": "/images/capa-trello.png"
     }
 ]
